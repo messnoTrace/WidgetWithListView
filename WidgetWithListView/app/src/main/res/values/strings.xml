@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WidgetWithListView</string>
+    <string name="empty_view_text">No cities found...</string>
+    <string name="toast_format_string">%1$s says Hi!</string>
+</resources>
